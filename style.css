@@ -1,0 +1,12 @@
+.box{
+    background: green;
+    height: 200px;
+    width: 400px;
+}
+
+.red {
+    background: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
